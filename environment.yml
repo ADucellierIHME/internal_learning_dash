@@ -1,0 +1,23 @@
+name: il_dash
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python==3.12
+  - altair
+  - dash
+  - dash-bootstrap-components
+  - ipykernel
+  - jupyter
+  - matplotlib
+  - notebook
+  - numpy
+  - pandas
+  - pip
+  - plotly
+  - scipy
+  - vegafusion
+  - vegafusion-python-embed
+  - vl-convert-python
+  - pip:
+    - dash-vega-components

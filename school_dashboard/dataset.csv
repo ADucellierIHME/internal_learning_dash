@@ -1,0 +1,893 @@
+SchoolName,StudentGroup,GradeLevel,TestAdministration,TestSubject,Percent Consistent Grade Level Knowledge And Above
+Adams,All Students,All Grades,SBAC,ELA,81.2%
+Adams,All Students,All Grades,SBAC,Math,80.5%
+Adams,English Language Learners,All Grades,SBAC,Math,N<10
+Adams,English Language Learners,All Grades,SBAC,ELA,N<10
+Adams,Non-English Language Learners,All Grades,SBAC,ELA,85.0%
+Adams,Non-English Language Learners,All Grades,SBAC,Math,83.6%
+Adams,Low-Income,All Grades,SBAC,ELA,47.8%
+Adams,Low-Income,All Grades,SBAC,Math,39.1%
+Adams,Non-Low Income,All Grades,SBAC,ELA,87.3%
+Adams,Non-Low Income,All Grades,SBAC,Math,88.1%
+Adams,Hispanic/ Latino of any race(s),All Grades,SBAC,ELA,N<10
+Adams,Hispanic/ Latino of any race(s),All Grades,SBAC,Math,N<10
+Adams,White,All Grades,SBAC,Math,89.0%
+Adams,White,All Grades,SBAC,ELA,86.2%
+Alki,All Students,All Grades,SBAC,ELA,76.1%
+Alki,All Students,All Grades,SBAC,Math,73.9%
+Alki,English Language Learners,All Grades,SBAC,ELA,N<10
+Alki,English Language Learners,All Grades,SBAC,Math,N<10
+Alki,Non-English Language Learners,All Grades,SBAC,Math,73.9%
+Alki,Non-English Language Learners,All Grades,SBAC,ELA,77.6%
+Alki,Low-Income,All Grades,SBAC,ELA,58.3%
+Alki,Low-Income,All Grades,SBAC,Math,45.8%
+Alki,Non-Low Income,All Grades,SBAC,ELA,79.8%
+Alki,Non-Low Income,All Grades,SBAC,Math,79.8%
+Alki,Hispanic/ Latino of any race(s),All Grades,SBAC,ELA,50.0%
+Alki,Hispanic/ Latino of any race(s),All Grades,SBAC,Math,58.3%
+Alki,White,All Grades,SBAC,ELA,80.2%
+Alki,White,All Grades,SBAC,Math,76.9%
+Arbor Heights,All Students,All Grades,SBAC,ELA,57.9%
+Arbor Heights,All Students,All Grades,SBAC,Math,50.0%
+Arbor Heights,English Language Learners,All Grades,SBAC,Math,<23%
+Arbor Heights,English Language Learners,All Grades,SBAC,ELA,<23%
+Arbor Heights,Non-English Language Learners,All Grades,SBAC,ELA,60.7%
+Arbor Heights,Non-English Language Learners,All Grades,SBAC,Math,52.4%
+Arbor Heights,Low-Income,All Grades,SBAC,ELA,32.7%
+Arbor Heights,Low-Income,All Grades,SBAC,Math,26.9%
+Arbor Heights,Non-Low Income,All Grades,SBAC,ELA,64.7%
+Arbor Heights,Non-Low Income,All Grades,SBAC,Math,56.3%
+Arbor Heights,Hispanic/ Latino of any race(s),All Grades,SBAC,ELA,30.6%
+Arbor Heights,Hispanic/ Latino of any race(s),All Grades,SBAC,Math,19.4%
+Arbor Heights,White,All Grades,SBAC,ELA,67.1%
+Arbor Heights,White,All Grades,SBAC,Math,59.2%
+B F Day,All Students,All Grades,SBAC,ELA,79.3%
+B F Day,All Students,All Grades,SBAC,Math,70.0%
+B F Day,English Language Learners,All Grades,SBAC,ELA,42.1%
+B F Day,English Language Learners,All Grades,SBAC,Math,31.6%
+B F Day,Non-English Language Learners,All Grades,SBAC,Math,74.1%
+B F Day,Non-English Language Learners,All Grades,SBAC,ELA,83.3%
+B F Day,Low-Income,All Grades,SBAC,Math,40.5%
+B F Day,Low-Income,All Grades,SBAC,ELA,48.7%
+B F Day,Non-Low Income,All Grades,SBAC,ELA,86.5%
+B F Day,Non-Low Income,All Grades,SBAC,Math,76.9%
+B F Day,Hispanic/ Latino of any race(s),All Grades,SBAC,ELA,56.3%
+B F Day,Hispanic/ Latino of any race(s),All Grades,SBAC,Math,37.5%
+B F Day,White,All Grades,SBAC,ELA,83.3%
+B F Day,White,All Grades,SBAC,Math,75.4%
+Bailey Gatzert,All Students,All Grades,SBAC,Math,34.9%
+Bailey Gatzert,All Students,All Grades,SBAC,ELA,38.8%
+Bailey Gatzert,English Language Learners,All Grades,SBAC,Math,16.4%
+Bailey Gatzert,English Language Learners,All Grades,SBAC,ELA,29.6%
+Bailey Gatzert,Non-English Language Learners,All Grades,SBAC,Math,43.6%
+Bailey Gatzert,Non-English Language Learners,All Grades,SBAC,ELA,43.1%
+Bailey Gatzert,Low-Income,All Grades,SBAC,Math,31.8%
+Bailey Gatzert,Low-Income,All Grades,SBAC,ELA,36.2%
+Bailey Gatzert,Non-Low Income,All Grades,SBAC,ELA,57.1%
+Bailey Gatzert,Non-Low Income,All Grades,SBAC,Math,57.1%
+Bailey Gatzert,Hispanic/ Latino of any race(s),All Grades,SBAC,ELA,47.1%
+Bailey Gatzert,Hispanic/ Latino of any race(s),All Grades,SBAC,Math,41.2%
+Bailey Gatzert,White,All Grades,SBAC,ELA,64.0%
+Bailey Gatzert,White,All Grades,SBAC,Math,56.0%
+Beacon Hill,All Students,All Grades,SBAC,Math,64.8%
+Beacon Hill,All Students,All Grades,SBAC,ELA,55.3%
+Beacon Hill,English Language Learners,All Grades,SBAC,Math,36.0%
+Beacon Hill,English Language Learners,All Grades,SBAC,ELA,19.4%
+Beacon Hill,Non-English Language Learners,All Grades,SBAC,ELA,79.4%
+Beacon Hill,Non-English Language Learners,All Grades,SBAC,Math,85.1%
+Beacon Hill,Low-Income,All Grades,SBAC,ELA,30.2%
+Beacon Hill,Low-Income,All Grades,SBAC,Math,45.4%
+Beacon Hill,Non-Low Income,All Grades,SBAC,Math,87.1%
+Beacon Hill,Non-Low Income,All Grades,SBAC,ELA,84.3%
+Beacon Hill,Hispanic/ Latino of any race(s),All Grades,SBAC,ELA,27.4%
+Beacon Hill,Hispanic/ Latino of any race(s),All Grades,SBAC,Math,30.2%
+Beacon Hill,White,All Grades,SBAC,ELA,>90%
+Beacon Hill,White,All Grades,SBAC,Math,>90%
+Bryant,All Students,All Grades,SBAC,ELA,81.9%
+Bryant,All Students,All Grades,SBAC,Math,76.4%
+Bryant,English Language Learners,All Grades,SBAC,Math,N<10
+Bryant,English Language Learners,All Grades,SBAC,ELA,N<10
+Bryant,Non-English Language Learners,All Grades,SBAC,ELA,82.4%
+Bryant,Non-English Language Learners,All Grades,SBAC,Math,76.7%
+Bryant,Low-Income,All Grades,SBAC,ELA,41.7%
+Bryant,Low-Income,All Grades,SBAC,Math,41.7%
+Bryant,Non-Low Income,All Grades,SBAC,ELA,84.2%
+Bryant,Non-Low Income,All Grades,SBAC,Math,78.4%
+Bryant,Hispanic/ Latino of any race(s),All Grades,SBAC,ELA,58.3%
+Bryant,Hispanic/ Latino of any race(s),All Grades,SBAC,Math,58.3%
+Bryant,White,All Grades,SBAC,Math,75.2%
+Bryant,White,All Grades,SBAC,ELA,82.6%
+Cascadia,All Students,All Grades,SBAC,Math,>99%
+Cascadia,All Students,All Grades,SBAC,ELA,97.3%
+Cascadia,Non-English Language Learners,All Grades,SBAC,ELA,97.3%
+Cascadia,Non-English Language Learners,All Grades,SBAC,Math,>99%
+Cascadia,Low-Income,All Grades,SBAC,ELA,>86%
+Cascadia,Low-Income,All Grades,SBAC,Math,>86%
+Cascadia,Non-Low Income,All Grades,SBAC,Math,>99%
+Cascadia,Non-Low Income,All Grades,SBAC,ELA,97.7%
+Cascadia,Hispanic/ Latino of any race(s),All Grades,SBAC,ELA,>88%
+Cascadia,Hispanic/ Latino of any race(s),All Grades,SBAC,Math,>88%
+Cascadia,White,All Grades,SBAC,ELA,98.2%
+Cascadia,White,All Grades,SBAC,Math,>98%
+Cedar Park,All Students,All Grades,SBAC,ELA,77.0%
+Cedar Park,All Students,All Grades,SBAC,Math,69.0%
+Cedar Park,English Language Learners,All Grades,SBAC,Math,27.3%
+Cedar Park,English Language Learners,All Grades,SBAC,ELA,45.5%
+Cedar Park,Non-English Language Learners,All Grades,SBAC,ELA,80.4%
+Cedar Park,Non-English Language Learners,All Grades,SBAC,Math,73.5%
+Cedar Park,Low-Income,All Grades,SBAC,ELA,52.4%
+Cedar Park,Low-Income,All Grades,SBAC,Math,42.9%
+Cedar Park,Non-Low Income,All Grades,SBAC,ELA,82.6%
+Cedar Park,Non-Low Income,All Grades,SBAC,Math,75.0%
+Cedar Park,Hispanic/ Latino of any race(s),All Grades,SBAC,Math,42.9%
+Cedar Park,Hispanic/ Latino of any race(s),All Grades,SBAC,ELA,50.0%
+Cedar Park,White,All Grades,SBAC,ELA,86.4%
+Cedar Park,White,All Grades,SBAC,Math,71.2%
+Concord,All Students,All Grades,SBAC,ELA,19.4%
+Concord,All Students,All Grades,SBAC,Math,11.9%
+Concord,English Language Learners,All Grades,SBAC,Math,4.1%
+Concord,English Language Learners,All Grades,SBAC,ELA,5.9%
+Concord,Non-English Language Learners,All Grades,SBAC,Math,21.7%
+Concord,Non-English Language Learners,All Grades,SBAC,ELA,34.4%
+Concord,Low-Income,All Grades,SBAC,ELA,7.2%
+Concord,Low-Income,All Grades,SBAC,Math,4.7%
+Concord,Non-Low Income,All Grades,SBAC,Math,24.5%
+Concord,Non-Low Income,All Grades,SBAC,ELA,41.3%
+Concord,Hispanic/ Latino of any race(s),All Grades,SBAC,ELA,6.8%
+Concord,Hispanic/ Latino of any race(s),All Grades,SBAC,Math,<4%
+Concord,White,All Grades,SBAC,ELA,47.4%
+Concord,White,All Grades,SBAC,Math,36.8%
+Daniel Bagley,All Students,All Grades,SBAC,ELA,70.3%
+Daniel Bagley,All Students,All Grades,SBAC,Math,63.8%
+Daniel Bagley,English Language Learners,All Grades,SBAC,Math,18.2%
+Daniel Bagley,English Language Learners,All Grades,SBAC,ELA,15.0%
+Daniel Bagley,Non-English Language Learners,All Grades,SBAC,ELA,78.3%
+Daniel Bagley,Non-English Language Learners,All Grades,SBAC,Math,71.0%
+Daniel Bagley,Low-Income,All Grades,SBAC,Math,27.8%
+Daniel Bagley,Low-Income,All Grades,SBAC,ELA,29.4%
+Daniel Bagley,Non-Low Income,All Grades,SBAC,Math,74.2%
+Daniel Bagley,Non-Low Income,All Grades,SBAC,ELA,81.5%
+Daniel Bagley,Hispanic/ Latino of any race(s),All Grades,SBAC,ELA,25.0%
+Daniel Bagley,Hispanic/ Latino of any race(s),All Grades,SBAC,Math,26.7%
+Daniel Bagley,White,All Grades,SBAC,Math,78.8%
+Daniel Bagley,White,All Grades,SBAC,ELA,85.9%
+Dearborn Park,All Students,All Grades,SBAC,Math,60.7%
+Dearborn Park,All Students,All Grades,SBAC,ELA,55.3%
+Dearborn Park,English Language Learners,All Grades,SBAC,ELA,41.8%
+Dearborn Park,English Language Learners,All Grades,SBAC,Math,55.7%
+Dearborn Park,Non-English Language Learners,All Grades,SBAC,ELA,65.9%
+Dearborn Park,Non-English Language Learners,All Grades,SBAC,Math,64.7%
+Dearborn Park,Low-Income,All Grades,SBAC,Math,53.3%
+Dearborn Park,Low-Income,All Grades,SBAC,ELA,50.0%
+Dearborn Park,Non-Low Income,All Grades,SBAC,ELA,66.0%
+Dearborn Park,Non-Low Income,All Grades,SBAC,Math,76.0%
+Dearborn Park,Hispanic/ Latino of any race(s),All Grades,SBAC,ELA,35.7%
+Dearborn Park,Hispanic/ Latino of any race(s),All Grades,SBAC,Math,42.9%
+Dearborn Park,White,All Grades,SBAC,ELA,>80%
+Dearborn Park,White,All Grades,SBAC,Math,73.3%
+Dunlap,All Students,All Grades,SBAC,ELA,47.1%
+Dunlap,All Students,All Grades,SBAC,Math,34.7%
+Dunlap,English Language Learners,All Grades,SBAC,ELA,18.9%
+Dunlap,English Language Learners,All Grades,SBAC,Math,18.2%
+Dunlap,Non-English Language Learners,All Grades,SBAC,ELA,69.7%
+Dunlap,Non-English Language Learners,All Grades,SBAC,Math,48.5%
+Dunlap,Low-Income,All Grades,SBAC,ELA,43.8%
+Dunlap,Low-Income,All Grades,SBAC,Math,28.0%
+Dunlap,Non-Low Income,All Grades,SBAC,ELA,71.4%
+Dunlap,Non-Low Income,All Grades,SBAC,Math,>79%
+Dunlap,Hispanic/ Latino of any race(s),All Grades,SBAC,ELA,25.0%
+Dunlap,Hispanic/ Latino of any race(s),All Grades,SBAC,Math,14.3%
+Dunlap,White,All Grades,SBAC,Math,<27%
+Dunlap,White,All Grades,SBAC,ELA,<30%
+Emerson,All Students,All Grades,SBAC,ELA,26.0%
+Emerson,All Students,All Grades,SBAC,Math,24.8%
+Emerson,English Language Learners,All Grades,SBAC,Math,14.1%
+Emerson,English Language Learners,All Grades,SBAC,ELA,21.5%
+Emerson,Non-English Language Learners,All Grades,SBAC,ELA,29.4%
+Emerson,Non-English Language Learners,All Grades,SBAC,Math,32.9%
+Emerson,Low-Income,All Grades,SBAC,Math,21.3%
+Emerson,Low-Income,All Grades,SBAC,ELA,24.4%
+Emerson,Non-Low Income,All Grades,SBAC,Math,40.7%
+Emerson,Non-Low Income,All Grades,SBAC,ELA,33.3%
+Emerson,Hispanic/ Latino of any race(s),All Grades,SBAC,Math,17.7%
+Emerson,Hispanic/ Latino of any race(s),All Grades,SBAC,ELA,22.9%
+Emerson,White,All Grades,SBAC,ELA,26.7%
+Emerson,White,All Grades,SBAC,Math,33.3%
+Fairmount Park,All Students,All Grades,SBAC,ELA,73.7%
+Fairmount Park,All Students,All Grades,SBAC,Math,74.2%
+Fairmount Park,English Language Learners,All Grades,SBAC,ELA,30.8%
+Fairmount Park,English Language Learners,All Grades,SBAC,Math,23.1%
+Fairmount Park,Non-English Language Learners,All Grades,SBAC,ELA,76.9%
+Fairmount Park,Non-English Language Learners,All Grades,SBAC,Math,78.0%
+Fairmount Park,Low-Income,All Grades,SBAC,ELA,40.5%
+Fairmount Park,Low-Income,All Grades,SBAC,Math,48.8%
+Fairmount Park,Non-Low Income,All Grades,SBAC,ELA,83.3%
+Fairmount Park,Non-Low Income,All Grades,SBAC,Math,81.4%
+Fairmount Park,Hispanic/ Latino of any race(s),All Grades,SBAC,Math,79.0%
+Fairmount Park,Hispanic/ Latino of any race(s),All Grades,SBAC,ELA,57.9%
+Fairmount Park,White,All Grades,SBAC,ELA,78.0%
+Fairmount Park,White,All Grades,SBAC,Math,74.3%
+Frantz Coe,All Students,All Grades,SBAC,ELA,90.6%
+Frantz Coe,All Students,All Grades,SBAC,Math,88.7%
+Frantz Coe,English Language Learners,All Grades,SBAC,Math,30.0%
+Frantz Coe,English Language Learners,All Grades,SBAC,ELA,30.0%
+Frantz Coe,Non-English Language Learners,All Grades,SBAC,ELA,93.6%
+Frantz Coe,Non-English Language Learners,All Grades,SBAC,Math,91.6%
+Frantz Coe,Low-Income,All Grades,SBAC,ELA,63.3%
+Frantz Coe,Low-Income,All Grades,SBAC,Math,60.0%
+Frantz Coe,Non-Low Income,All Grades,SBAC,ELA,95.1%
+Frantz Coe,Non-Low Income,All Grades,SBAC,Math,93.4%
+Frantz Coe,Hispanic/ Latino of any race(s),All Grades,SBAC,Math,>81%
+Frantz Coe,Hispanic/ Latino of any race(s),All Grades,SBAC,ELA,81.3%
+Frantz Coe,White,All Grades,SBAC,ELA,90.5%
+Frantz Coe,White,All Grades,SBAC,Math,87.6%
+Gatewood,All Students,All Grades,SBAC,ELA,64.0%
+Gatewood,All Students,All Grades,SBAC,Math,61.8%
+Gatewood,English Language Learners,All Grades,SBAC,Math,N<10
+Gatewood,English Language Learners,All Grades,SBAC,ELA,N<10
+Gatewood,Non-English Language Learners,All Grades,SBAC,Math,63.0%
+Gatewood,Non-English Language Learners,All Grades,SBAC,ELA,65.9%
+Gatewood,Low-Income,All Grades,SBAC,Math,17.2%
+Gatewood,Low-Income,All Grades,SBAC,ELA,34.5%
+Gatewood,Non-Low Income,All Grades,SBAC,ELA,69.8%
+Gatewood,Non-Low Income,All Grades,SBAC,Math,70.5%
+Gatewood,Hispanic/ Latino of any race(s),All Grades,SBAC,ELA,42.9%
+Gatewood,Hispanic/ Latino of any race(s),All Grades,SBAC,Math,35.7%
+Gatewood,White,All Grades,SBAC,ELA,69.9%
+Gatewood,White,All Grades,SBAC,Math,68.3%
+Genesee Hill,All Students,All Grades,SBAC,Math,73.5%
+Genesee Hill,All Students,All Grades,SBAC,ELA,78.1%
+Genesee Hill,English Language Learners,All Grades,SBAC,ELA,30.0%
+Genesee Hill,English Language Learners,All Grades,SBAC,Math,30.0%
+Genesee Hill,Non-English Language Learners,All Grades,SBAC,ELA,80.0%
+Genesee Hill,Non-English Language Learners,All Grades,SBAC,Math,75.2%
+Genesee Hill,Low-Income,All Grades,SBAC,Math,34.6%
+Genesee Hill,Low-Income,All Grades,SBAC,ELA,42.3%
+Genesee Hill,Non-Low Income,All Grades,SBAC,ELA,82.1%
+Genesee Hill,Non-Low Income,All Grades,SBAC,Math,77.8%
+Genesee Hill,Hispanic/ Latino of any race(s),All Grades,SBAC,Math,73.1%
+Genesee Hill,Hispanic/ Latino of any race(s),All Grades,SBAC,ELA,76.9%
+Genesee Hill,White,All Grades,SBAC,ELA,81.6%
+Genesee Hill,White,All Grades,SBAC,Math,76.5%
+Graham Hill,All Students,All Grades,SBAC,ELA,38.3%
+Graham Hill,All Students,All Grades,SBAC,Math,32.8%
+Graham Hill,English Language Learners,All Grades,SBAC,ELA,16.7%
+Graham Hill,English Language Learners,All Grades,SBAC,Math,14.3%
+Graham Hill,Non-English Language Learners,All Grades,SBAC,Math,46.3%
+Graham Hill,Non-English Language Learners,All Grades,SBAC,ELA,53.7%
+Graham Hill,Low-Income,All Grades,SBAC,ELA,15.0%
+Graham Hill,Low-Income,All Grades,SBAC,Math,18.0%
+Graham Hill,Non-Low Income,All Grades,SBAC,ELA,63.6%
+Graham Hill,Non-Low Income,All Grades,SBAC,Math,49.1%
+Graham Hill,Hispanic/ Latino of any race(s),All Grades,SBAC,ELA,17.9%
+Graham Hill,Hispanic/ Latino of any race(s),All Grades,SBAC,Math,17.2%
+Graham Hill,White,All Grades,SBAC,ELA,65.2%
+Graham Hill,White,All Grades,SBAC,Math,52.2%
+Green Lake,All Students,All Grades,SBAC,ELA,52.9%
+Green Lake,All Students,All Grades,SBAC,Math,54.8%
+Green Lake,English Language Learners,All Grades,SBAC,ELA,20.0%
+Green Lake,English Language Learners,All Grades,SBAC,Math,36.4%
+Green Lake,Non-English Language Learners,All Grades,SBAC,ELA,57.9%
+Green Lake,Non-English Language Learners,All Grades,SBAC,Math,57.9%
+Green Lake,Low-Income,All Grades,SBAC,ELA,20.0%
+Green Lake,Low-Income,All Grades,SBAC,Math,21.7%
+Green Lake,Non-Low Income,All Grades,SBAC,Math,68.8%
+Green Lake,Non-Low Income,All Grades,SBAC,ELA,66.7%
+Green Lake,Hispanic/ Latino of any race(s),All Grades,SBAC,ELA,27.3%
+Green Lake,Hispanic/ Latino of any race(s),All Grades,SBAC,Math,45.5%
+Green Lake,White,All Grades,SBAC,ELA,65.1%
+Green Lake,White,All Grades,SBAC,Math,65.5%
+Greenwood,All Students,All Grades,SBAC,ELA,86.3%
+Greenwood,All Students,All Grades,SBAC,Math,76.7%
+Greenwood,English Language Learners,All Grades,SBAC,ELA,N<10
+Greenwood,English Language Learners,All Grades,SBAC,Math,N<10
+Greenwood,Non-English Language Learners,All Grades,SBAC,Math,77.3%
+Greenwood,Non-English Language Learners,All Grades,SBAC,ELA,86.5%
+Greenwood,Low-Income,All Grades,SBAC,ELA,30.8%
+Greenwood,Low-Income,All Grades,SBAC,Math,30.8%
+Greenwood,Non-Low Income,All Grades,SBAC,ELA,91.7%
+Greenwood,Non-Low Income,All Grades,SBAC,Math,81.2%
+Greenwood,Hispanic/ Latino of any race(s),All Grades,SBAC,ELA,>70%
+Greenwood,Hispanic/ Latino of any race(s),All Grades,SBAC,Math,>70%
+Greenwood,White,All Grades,SBAC,ELA,88.5%
+Greenwood,White,All Grades,SBAC,Math,81.7%
+Hawthorne,All Students,All Grades,SBAC,ELA,69.7%
+Hawthorne,All Students,All Grades,SBAC,Math,72.6%
+Hawthorne,English Language Learners,All Grades,SBAC,ELA,22.2%
+Hawthorne,English Language Learners,All Grades,SBAC,Math,25.9%
+Hawthorne,Non-English Language Learners,All Grades,SBAC,ELA,78.4%
+Hawthorne,Non-English Language Learners,All Grades,SBAC,Math,81.1%
+Hawthorne,Low-Income,All Grades,SBAC,Math,50.0%
+Hawthorne,Low-Income,All Grades,SBAC,ELA,40.4%
+Hawthorne,Non-Low Income,All Grades,SBAC,ELA,82.1%
+Hawthorne,Non-Low Income,All Grades,SBAC,Math,82.1%
+Hawthorne,Hispanic/ Latino of any race(s),All Grades,SBAC,ELA,46.4%
+Hawthorne,Hispanic/ Latino of any race(s),All Grades,SBAC,Math,46.4%
+Hawthorne,White,All Grades,SBAC,Math,86.5%
+Hawthorne,White,All Grades,SBAC,ELA,87.6%
+Highland Park,All Students,All Grades,SBAC,ELA,38.9%
+Highland Park,All Students,All Grades,SBAC,Math,37.1%
+Highland Park,English Language Learners,All Grades,SBAC,ELA,26.8%
+Highland Park,English Language Learners,All Grades,SBAC,Math,33.3%
+Highland Park,Non-English Language Learners,All Grades,SBAC,ELA,44.4%
+Highland Park,Non-English Language Learners,All Grades,SBAC,Math,38.9%
+Highland Park,Low-Income,All Grades,SBAC,Math,24.1%
+Highland Park,Low-Income,All Grades,SBAC,ELA,28.1%
+Highland Park,Non-Low Income,All Grades,SBAC,ELA,57.1%
+Highland Park,Non-Low Income,All Grades,SBAC,Math,59.2%
+Highland Park,Hispanic/ Latino of any race(s),All Grades,SBAC,Math,23.1%
+Highland Park,Hispanic/ Latino of any race(s),All Grades,SBAC,ELA,13.2%
+Highland Park,White,All Grades,SBAC,ELA,64.3%
+Highland Park,White,All Grades,SBAC,Math,53.6%
+James Baldwin,All Students,All Grades,SBAC,ELA,41.9%
+James Baldwin,All Students,All Grades,SBAC,Math,49.4%
+James Baldwin,English Language Learners,All Grades,SBAC,ELA,25.7%
+James Baldwin,English Language Learners,All Grades,SBAC,Math,33.3%
+James Baldwin,Non-English Language Learners,All Grades,SBAC,ELA,52.9%
+James Baldwin,Non-English Language Learners,All Grades,SBAC,Math,60.8%
+James Baldwin,Low-Income,All Grades,SBAC,ELA,35.5%
+James Baldwin,Low-Income,All Grades,SBAC,Math,41.9%
+James Baldwin,Non-Low Income,All Grades,SBAC,ELA,58.3%
+James Baldwin,Non-Low Income,All Grades,SBAC,Math,68.0%
+James Baldwin,Hispanic/ Latino of any race(s),All Grades,SBAC,ELA,37.5%
+James Baldwin,Hispanic/ Latino of any race(s),All Grades,SBAC,Math,37.5%
+James Baldwin,White,All Grades,SBAC,Math,70.8%
+James Baldwin,White,All Grades,SBAC,ELA,65.2%
+John Hay,All Students,All Grades,SBAC,Math,51.2%
+John Hay,All Students,All Grades,SBAC,ELA,62.3%
+John Hay,English Language Learners,All Grades,SBAC,ELA,33.3%
+John Hay,English Language Learners,All Grades,SBAC,Math,36.4%
+John Hay,Non-English Language Learners,All Grades,SBAC,ELA,68.3%
+John Hay,Non-English Language Learners,All Grades,SBAC,Math,54.5%
+John Hay,Low-Income,All Grades,SBAC,ELA,34.3%
+John Hay,Low-Income,All Grades,SBAC,Math,36.1%
+John Hay,Non-Low Income,All Grades,SBAC,ELA,73.6%
+John Hay,Non-Low Income,All Grades,SBAC,Math,57.5%
+John Hay,Hispanic/ Latino of any race(s),All Grades,SBAC,ELA,48.0%
+John Hay,Hispanic/ Latino of any race(s),All Grades,SBAC,Math,32.0%
+John Hay,White,All Grades,SBAC,ELA,67.8%
+John Hay,White,All Grades,SBAC,Math,55.9%
+John Muir,All Students,All Grades,SBAC,ELA,37.5%
+John Muir,All Students,All Grades,SBAC,Math,37.5%
+John Muir,English Language Learners,All Grades,SBAC,ELA,13.3%
+John Muir,English Language Learners,All Grades,SBAC,Math,17.8%
+John Muir,Non-English Language Learners,All Grades,SBAC,ELA,49.5%
+John Muir,Non-English Language Learners,All Grades,SBAC,Math,47.3%
+John Muir,Low-Income,All Grades,SBAC,ELA,11.3%
+John Muir,Low-Income,All Grades,SBAC,Math,18.8%
+John Muir,Non-Low Income,All Grades,SBAC,ELA,75.0%
+John Muir,Non-Low Income,All Grades,SBAC,Math,64.3%
+John Muir,Hispanic/ Latino of any race(s),All Grades,SBAC,ELA,13.6%
+John Muir,Hispanic/ Latino of any race(s),All Grades,SBAC,Math,22.7%
+John Muir,White,All Grades,SBAC,Math,70.6%
+John Muir,White,All Grades,SBAC,ELA,85.3%
+John Rogers,All Students,All Grades,SBAC,ELA,51.8%
+John Rogers,All Students,All Grades,SBAC,Math,55.4%
+John Rogers,English Language Learners,All Grades,SBAC,Math,17.4%
+John Rogers,English Language Learners,All Grades,SBAC,ELA,13.0%
+John Rogers,Non-English Language Learners,All Grades,SBAC,Math,70.0%
+John Rogers,Non-English Language Learners,All Grades,SBAC,ELA,66.7%
+John Rogers,Low-Income,All Grades,SBAC,ELA,21.6%
+John Rogers,Low-Income,All Grades,SBAC,Math,24.3%
+John Rogers,Non-Low Income,All Grades,SBAC,ELA,76.1%
+John Rogers,Non-Low Income,All Grades,SBAC,Math,80.4%
+John Rogers,Hispanic/ Latino of any race(s),All Grades,SBAC,Math,N<10
+John Rogers,Hispanic/ Latino of any race(s),All Grades,SBAC,ELA,N<10
+John Rogers,White,All Grades,SBAC,Math,75.7%
+John Rogers,White,All Grades,SBAC,ELA,73.0%
+John Stanford,All Students,All Grades,SBAC,ELA,87.1%
+John Stanford,All Students,All Grades,SBAC,Math,90.7%
+John Stanford,English Language Learners,All Grades,SBAC,ELA,37.5%
+John Stanford,English Language Learners,All Grades,SBAC,Math,62.5%
+John Stanford,Non-English Language Learners,All Grades,SBAC,ELA,91.5%
+John Stanford,Non-English Language Learners,All Grades,SBAC,Math,93.2%
+John Stanford,Low-Income,All Grades,SBAC,ELA,50.0%
+John Stanford,Low-Income,All Grades,SBAC,Math,56.3%
+John Stanford,Non-Low Income,All Grades,SBAC,ELA,90.4%
+John Stanford,Non-Low Income,All Grades,SBAC,Math,93.8%
+John Stanford,Hispanic/ Latino of any race(s),All Grades,SBAC,ELA,85.2%
+John Stanford,Hispanic/ Latino of any race(s),All Grades,SBAC,Math,85.2%
+John Stanford,White,All Grades,SBAC,ELA,93.6%
+John Stanford,White,All Grades,SBAC,Math,92.3%
+Kimball,All Students,All Grades,SBAC,ELA,42.4%
+Kimball,All Students,All Grades,SBAC,Math,42.7%
+Kimball,English Language Learners,All Grades,SBAC,ELA,22.1%
+Kimball,English Language Learners,All Grades,SBAC,Math,29.0%
+Kimball,Non-English Language Learners,All Grades,SBAC,ELA,53.7%
+Kimball,Non-English Language Learners,All Grades,SBAC,Math,50.4%
+Kimball,Low-Income,All Grades,SBAC,ELA,20.8%
+Kimball,Low-Income,All Grades,SBAC,Math,24.7%
+Kimball,Non-Low Income,All Grades,SBAC,Math,61.1%
+Kimball,Non-Low Income,All Grades,SBAC,ELA,64.2%
+Kimball,Hispanic/ Latino of any race(s),All Grades,SBAC,ELA,21.9%
+Kimball,Hispanic/ Latino of any race(s),All Grades,SBAC,Math,24.2%
+Kimball,White,All Grades,SBAC,Math,64.4%
+Kimball,White,All Grades,SBAC,ELA,75.6%
+Lafayette,All Students,All Grades,SBAC,Math,70.7%
+Lafayette,All Students,All Grades,SBAC,ELA,67.8%
+Lafayette,English Language Learners,All Grades,SBAC,Math,54.6%
+Lafayette,English Language Learners,All Grades,SBAC,ELA,40.0%
+Lafayette,Non-English Language Learners,All Grades,SBAC,Math,71.5%
+Lafayette,Non-English Language Learners,All Grades,SBAC,ELA,69.1%
+Lafayette,Low-Income,All Grades,SBAC,ELA,42.5%
+Lafayette,Low-Income,All Grades,SBAC,Math,45.0%
+Lafayette,Non-Low Income,All Grades,SBAC,Math,76.0%
+Lafayette,Non-Low Income,All Grades,SBAC,ELA,73.2%
+Lafayette,Hispanic/ Latino of any race(s),All Grades,SBAC,ELA,50.0%
+Lafayette,Hispanic/ Latino of any race(s),All Grades,SBAC,Math,56.7%
+Lafayette,White,All Grades,SBAC,ELA,70.8%
+Lafayette,White,All Grades,SBAC,Math,74.5%
+Laurelhurst,All Students,All Grades,SBAC,ELA,65.6%
+Laurelhurst,All Students,All Grades,SBAC,Math,58.7%
+Laurelhurst,English Language Learners,All Grades,SBAC,ELA,41.2%
+Laurelhurst,English Language Learners,All Grades,SBAC,Math,36.8%
+Laurelhurst,Non-English Language Learners,All Grades,SBAC,ELA,69.6%
+Laurelhurst,Non-English Language Learners,All Grades,SBAC,Math,62.8%
+Laurelhurst,Low-Income,All Grades,SBAC,ELA,42.5%
+Laurelhurst,Low-Income,All Grades,SBAC,Math,31.7%
+Laurelhurst,Non-Low Income,All Grades,SBAC,ELA,77.2%
+Laurelhurst,Non-Low Income,All Grades,SBAC,Math,72.5%
+Laurelhurst,Hispanic/ Latino of any race(s),All Grades,SBAC,ELA,63.6%
+Laurelhurst,Hispanic/ Latino of any race(s),All Grades,SBAC,Math,45.5%
+Laurelhurst,White,All Grades,SBAC,Math,61.5%
+Laurelhurst,White,All Grades,SBAC,ELA,67.7%
+Lawton,All Students,All Grades,SBAC,ELA,76.1%
+Lawton,All Students,All Grades,SBAC,Math,71.1%
+Lawton,English Language Learners,All Grades,SBAC,ELA,N<10
+Lawton,English Language Learners,All Grades,SBAC,Math,N<10
+Lawton,Non-English Language Learners,All Grades,SBAC,ELA,77.5%
+Lawton,Non-English Language Learners,All Grades,SBAC,Math,74.2%
+Lawton,Low-Income,All Grades,SBAC,Math,47.1%
+Lawton,Low-Income,All Grades,SBAC,ELA,41.2%
+Lawton,Non-Low Income,All Grades,SBAC,ELA,80.3%
+Lawton,Non-Low Income,All Grades,SBAC,Math,73.9%
+Lawton,Hispanic/ Latino of any race(s),All Grades,SBAC,ELA,61.5%
+Lawton,Hispanic/ Latino of any race(s),All Grades,SBAC,Math,69.2%
+Lawton,White,All Grades,SBAC,ELA,78.1%
+Lawton,White,All Grades,SBAC,Math,70.5%
+Leschi,All Students,All Grades,SBAC,ELA,51.2%
+Leschi,All Students,All Grades,SBAC,Math,42.4%
+Leschi,English Language Learners,All Grades,SBAC,Math,<14%
+Leschi,English Language Learners,All Grades,SBAC,ELA,38.1%
+Leschi,Non-English Language Learners,All Grades,SBAC,Math,49.0%
+Leschi,Non-English Language Learners,All Grades,SBAC,ELA,53.9%
+Leschi,Low-Income,All Grades,SBAC,Math,18.8%
+Leschi,Low-Income,All Grades,SBAC,ELA,33.3%
+Leschi,Non-Low Income,All Grades,SBAC,Math,71.4%
+Leschi,Non-Low Income,All Grades,SBAC,ELA,73.2%
+Leschi,Hispanic/ Latino of any race(s),All Grades,SBAC,ELA,58.3%
+Leschi,Hispanic/ Latino of any race(s),All Grades,SBAC,Math,25.0%
+Leschi,White,All Grades,SBAC,ELA,82.5%
+Leschi,White,All Grades,SBAC,Math,87.5%
+Lowell,All Students,All Grades,SBAC,Math,32.4%
+Lowell,All Students,All Grades,SBAC,ELA,27.5%
+Lowell,English Language Learners,All Grades,SBAC,ELA,20.0%
+Lowell,English Language Learners,All Grades,SBAC,Math,35.9%
+Lowell,Non-English Language Learners,All Grades,SBAC,ELA,30.8%
+Lowell,Non-English Language Learners,All Grades,SBAC,Math,30.8%
+Lowell,Low-Income,All Grades,SBAC,ELA,24.2%
+Lowell,Low-Income,All Grades,SBAC,Math,26.4%
+Lowell,Non-Low Income,All Grades,SBAC,ELA,38.5%
+Lowell,Non-Low Income,All Grades,SBAC,Math,51.2%
+Lowell,Hispanic/ Latino of any race(s),All Grades,SBAC,Math,13.5%
+Lowell,Hispanic/ Latino of any race(s),All Grades,SBAC,ELA,14.3%
+Lowell,White,All Grades,SBAC,Math,53.3%
+Lowell,White,All Grades,SBAC,ELA,56.7%
+Loyal Heights,All Students,All Grades,SBAC,ELA,80.3%
+Loyal Heights,All Students,All Grades,SBAC,Math,76.5%
+Loyal Heights,English Language Learners,All Grades,SBAC,Math,N<10
+Loyal Heights,English Language Learners,All Grades,SBAC,ELA,N<10
+Loyal Heights,Non-English Language Learners,All Grades,SBAC,ELA,81.9%
+Loyal Heights,Non-English Language Learners,All Grades,SBAC,Math,78.4%
+Loyal Heights,Low-Income,All Grades,SBAC,ELA,40.0%
+Loyal Heights,Low-Income,All Grades,SBAC,Math,32.0%
+Loyal Heights,Non-Low Income,All Grades,SBAC,ELA,85.2%
+Loyal Heights,Non-Low Income,All Grades,SBAC,Math,81.8%
+Loyal Heights,Hispanic/ Latino of any race(s),All Grades,SBAC,ELA,72.2%
+Loyal Heights,Hispanic/ Latino of any race(s),All Grades,SBAC,Math,61.1%
+Loyal Heights,White,All Grades,SBAC,ELA,81.7%
+Loyal Heights,White,All Grades,SBAC,Math,78.3%
+Magnolia,All Students,All Grades,SBAC,ELA,72.9%
+Magnolia,All Students,All Grades,SBAC,Math,63.8%
+Magnolia,English Language Learners,All Grades,SBAC,Math,33.3%
+Magnolia,English Language Learners,All Grades,SBAC,ELA,25.0%
+Magnolia,Non-English Language Learners,All Grades,SBAC,Math,66.7%
+Magnolia,Non-English Language Learners,All Grades,SBAC,ELA,77.3%
+Magnolia,Low-Income,All Grades,SBAC,Math,32.1%
+Magnolia,Low-Income,All Grades,SBAC,ELA,40.7%
+Magnolia,Non-Low Income,All Grades,SBAC,Math,71.7%
+Magnolia,Non-Low Income,All Grades,SBAC,ELA,80.5%
+Magnolia,Hispanic/ Latino of any race(s),All Grades,SBAC,ELA,50.0%
+Magnolia,Hispanic/ Latino of any race(s),All Grades,SBAC,Math,50.0%
+Magnolia,White,All Grades,SBAC,ELA,81.9%
+Magnolia,White,All Grades,SBAC,Math,71.4%
+Maple,All Students,All Grades,SBAC,Math,65.0%
+Maple,All Students,All Grades,SBAC,ELA,59.7%
+Maple,English Language Learners,All Grades,SBAC,ELA,31.0%
+Maple,English Language Learners,All Grades,SBAC,Math,44.7%
+Maple,Non-English Language Learners,All Grades,SBAC,ELA,78.0%
+Maple,Non-English Language Learners,All Grades,SBAC,Math,78.0%
+Maple,Low-Income,All Grades,SBAC,ELA,50.0%
+Maple,Low-Income,All Grades,SBAC,Math,57.8%
+Maple,Non-Low Income,All Grades,SBAC,ELA,73.9%
+Maple,Non-Low Income,All Grades,SBAC,Math,75.3%
+Maple,Hispanic/ Latino of any race(s),All Grades,SBAC,ELA,35.1%
+Maple,Hispanic/ Latino of any race(s),All Grades,SBAC,Math,32.4%
+Maple,White,All Grades,SBAC,ELA,81.0%
+Maple,White,All Grades,SBAC,Math,78.6%
+Martin Luther King Jr.,All Students,All Grades,SBAC,ELA,31.4%
+Martin Luther King Jr.,All Students,All Grades,SBAC,Math,28.9%
+Martin Luther King Jr.,English Language Learners,All Grades,SBAC,ELA,20.3%
+Martin Luther King Jr.,English Language Learners,All Grades,SBAC,Math,17.0%
+Martin Luther King Jr.,Non-English Language Learners,All Grades,SBAC,Math,40.3%
+Martin Luther King Jr.,Non-English Language Learners,All Grades,SBAC,ELA,41.9%
+Martin Luther King Jr.,Low-Income,All Grades,SBAC,ELA,27.3%
+Martin Luther King Jr.,Low-Income,All Grades,SBAC,Math,25.0%
+Martin Luther King Jr.,Non-Low Income,All Grades,SBAC,ELA,42.4%
+Martin Luther King Jr.,Non-Low Income,All Grades,SBAC,Math,39.4%
+Martin Luther King Jr.,Hispanic/ Latino of any race(s),All Grades,SBAC,ELA,<18%
+Martin Luther King Jr.,Hispanic/ Latino of any race(s),All Grades,SBAC,Math,<18%
+Martin Luther King Jr.,White,All Grades,SBAC,ELA,N<10
+Martin Luther King Jr.,White,All Grades,SBAC,Math,N<10
+McDonald,All Students,All Grades,SBAC,ELA,84.0%
+McDonald,All Students,All Grades,SBAC,Math,89.7%
+McDonald,English Language Learners,All Grades,SBAC,Math,78.6%
+McDonald,English Language Learners,All Grades,SBAC,ELA,50.0%
+McDonald,Non-English Language Learners,All Grades,SBAC,ELA,88.4%
+McDonald,Non-English Language Learners,All Grades,SBAC,Math,91.2%
+McDonald,Low-Income,All Grades,SBAC,Math,60.0%
+McDonald,Low-Income,All Grades,SBAC,ELA,66.7%
+McDonald,Non-Low Income,All Grades,SBAC,Math,91.7%
+McDonald,Non-Low Income,All Grades,SBAC,ELA,85.1%
+McDonald,Hispanic/ Latino of any race(s),All Grades,SBAC,ELA,84.6%
+McDonald,Hispanic/ Latino of any race(s),All Grades,SBAC,Math,84.6%
+McDonald,White,All Grades,SBAC,ELA,86.0%
+McDonald,White,All Grades,SBAC,Math,90.4%
+McGilvra,All Students,All Grades,SBAC,Math,74.8%
+McGilvra,All Students,All Grades,SBAC,ELA,75.7%
+McGilvra,English Language Learners,All Grades,SBAC,ELA,N<10
+McGilvra,English Language Learners,All Grades,SBAC,Math,N<10
+McGilvra,Non-English Language Learners,All Grades,SBAC,ELA,76.5%
+McGilvra,Non-English Language Learners,All Grades,SBAC,Math,76.5%
+McGilvra,Low-Income,All Grades,SBAC,ELA,36.4%
+McGilvra,Low-Income,All Grades,SBAC,Math,27.3%
+McGilvra,Non-Low Income,All Grades,SBAC,ELA,80.2%
+McGilvra,Non-Low Income,All Grades,SBAC,Math,80.2%
+McGilvra,Hispanic/ Latino of any race(s),All Grades,SBAC,Math,61.5%
+McGilvra,Hispanic/ Latino of any race(s),All Grades,SBAC,ELA,76.9%
+McGilvra,White,All Grades,SBAC,ELA,78.5%
+McGilvra,White,All Grades,SBAC,Math,76.9%
+Montlake,All Students,All Grades,SBAC,ELA,81.0%
+Montlake,All Students,All Grades,SBAC,Math,78.6%
+Montlake,English Language Learners,All Grades,SBAC,ELA,N<10
+Montlake,English Language Learners,All Grades,SBAC,Math,N<10
+Montlake,Non-English Language Learners,All Grades,SBAC,Math,80.5%
+Montlake,Non-English Language Learners,All Grades,SBAC,ELA,82.9%
+Montlake,Low-Income,All Grades,SBAC,ELA,54.6%
+Montlake,Low-Income,All Grades,SBAC,Math,36.4%
+Montlake,Non-Low Income,All Grades,SBAC,ELA,84.9%
+Montlake,Non-Low Income,All Grades,SBAC,Math,84.9%
+Montlake,Hispanic/ Latino of any race(s),All Grades,SBAC,Math,N<10
+Montlake,Hispanic/ Latino of any race(s),All Grades,SBAC,ELA,N<10
+Montlake,White,All Grades,SBAC,ELA,78.9%
+Montlake,White,All Grades,SBAC,Math,75.0%
+North Beach,All Students,All Grades,SBAC,ELA,74.0%
+North Beach,All Students,All Grades,SBAC,Math,68.6%
+North Beach,English Language Learners,All Grades,SBAC,ELA,N<10
+North Beach,English Language Learners,All Grades,SBAC,Math,N<10
+North Beach,Non-English Language Learners,All Grades,SBAC,ELA,76.4%
+North Beach,Non-English Language Learners,All Grades,SBAC,Math,70.8%
+North Beach,Low-Income,All Grades,SBAC,ELA,33.3%
+North Beach,Low-Income,All Grades,SBAC,Math,33.3%
+North Beach,Non-Low Income,All Grades,SBAC,ELA,78.8%
+North Beach,Non-Low Income,All Grades,SBAC,Math,72.9%
+North Beach,Hispanic/ Latino of any race(s),All Grades,SBAC,ELA,<30%
+North Beach,Hispanic/ Latino of any race(s),All Grades,SBAC,Math,<30%
+North Beach,White,All Grades,SBAC,Math,71.1%
+North Beach,White,All Grades,SBAC,ELA,77.3%
+Olympic Hills,All Students,All Grades,SBAC,Math,52.2%
+Olympic Hills,All Students,All Grades,SBAC,ELA,57.0%
+Olympic Hills,English Language Learners,All Grades,SBAC,ELA,34.4%
+Olympic Hills,English Language Learners,All Grades,SBAC,Math,30.3%
+Olympic Hills,Non-English Language Learners,All Grades,SBAC,ELA,67.1%
+Olympic Hills,Non-English Language Learners,All Grades,SBAC,Math,62.2%
+Olympic Hills,Low-Income,All Grades,SBAC,ELA,46.4%
+Olympic Hills,Low-Income,All Grades,SBAC,Math,38.9%
+Olympic Hills,Non-Low Income,All Grades,SBAC,Math,67.7%
+Olympic Hills,Non-Low Income,All Grades,SBAC,ELA,69.5%
+Olympic Hills,Hispanic/ Latino of any race(s),All Grades,SBAC,ELA,47.9%
+Olympic Hills,Hispanic/ Latino of any race(s),All Grades,SBAC,Math,40.0%
+Olympic Hills,White,All Grades,SBAC,ELA,69.2%
+Olympic Hills,White,All Grades,SBAC,Math,65.4%
+Olympic View,All Students,All Grades,SBAC,Math,51.6%
+Olympic View,All Students,All Grades,SBAC,ELA,58.8%
+Olympic View,English Language Learners,All Grades,SBAC,ELA,24.4%
+Olympic View,English Language Learners,All Grades,SBAC,Math,26.2%
+Olympic View,Non-English Language Learners,All Grades,SBAC,ELA,68.5%
+Olympic View,Non-English Language Learners,All Grades,SBAC,Math,58.9%
+Olympic View,Low-Income,All Grades,SBAC,Math,28.9%
+Olympic View,Low-Income,All Grades,SBAC,ELA,35.4%
+Olympic View,Non-Low Income,All Grades,SBAC,ELA,77.1%
+Olympic View,Non-Low Income,All Grades,SBAC,Math,69.5%
+Olympic View,Hispanic/ Latino of any race(s),All Grades,SBAC,ELA,44.4%
+Olympic View,Hispanic/ Latino of any race(s),All Grades,SBAC,Math,32.4%
+Olympic View,White,All Grades,SBAC,ELA,74.0%
+Olympic View,White,All Grades,SBAC,Math,65.6%
+Queen Anne,All Students,All Grades,SBAC,ELA,77.7%
+Queen Anne,All Students,All Grades,SBAC,Math,69.2%
+Queen Anne,English Language Learners,All Grades,SBAC,ELA,N<10
+Queen Anne,English Language Learners,All Grades,SBAC,Math,N<10
+Queen Anne,Non-English Language Learners,All Grades,SBAC,ELA,80.9%
+Queen Anne,Non-English Language Learners,All Grades,SBAC,Math,71.9%
+Queen Anne,Low-Income,All Grades,SBAC,ELA,35.7%
+Queen Anne,Low-Income,All Grades,SBAC,Math,21.4%
+Queen Anne,Non-Low Income,All Grades,SBAC,ELA,85.0%
+Queen Anne,Non-Low Income,All Grades,SBAC,Math,77.5%
+Queen Anne,Hispanic/ Latino of any race(s),All Grades,SBAC,ELA,50.0%
+Queen Anne,Hispanic/ Latino of any race(s),All Grades,SBAC,Math,60.0%
+Queen Anne,White,All Grades,SBAC,ELA,85.3%
+Queen Anne,White,All Grades,SBAC,Math,75.4%
+Rainier View,All Students,All Grades,SBAC,ELA,38.9%
+Rainier View,All Students,All Grades,SBAC,Math,27.8%
+Rainier View,English Language Learners,All Grades,SBAC,Math,26.7%
+Rainier View,English Language Learners,All Grades,SBAC,ELA,40.0%
+Rainier View,Non-English Language Learners,All Grades,SBAC,ELA,38.3%
+Rainier View,Non-English Language Learners,All Grades,SBAC,Math,28.3%
+Rainier View,Low-Income,All Grades,SBAC,Math,24.1%
+Rainier View,Low-Income,All Grades,SBAC,ELA,27.6%
+Rainier View,Non-Low Income,All Grades,SBAC,Math,34.4%
+Rainier View,Non-Low Income,All Grades,SBAC,ELA,59.4%
+Rainier View,Hispanic/ Latino of any race(s),All Grades,SBAC,Math,16.7%
+Rainier View,Hispanic/ Latino of any race(s),All Grades,SBAC,ELA,27.8%
+Rainier View,White,All Grades,SBAC,ELA,N<10
+Rainier View,White,All Grades,SBAC,Math,N<10
+Rising Star,All Students,All Grades,SBAC,ELA,56.6%
+Rising Star,All Students,All Grades,SBAC,Math,39.6%
+Rising Star,English Language Learners,All Grades,SBAC,ELA,40.3%
+Rising Star,English Language Learners,All Grades,SBAC,Math,29.0%
+Rising Star,Non-English Language Learners,All Grades,SBAC,ELA,69.4%
+Rising Star,Non-English Language Learners,All Grades,SBAC,Math,48.2%
+Rising Star,Low-Income,All Grades,SBAC,ELA,46.5%
+Rising Star,Low-Income,All Grades,SBAC,Math,28.5%
+Rising Star,Non-Low Income,All Grades,SBAC,ELA,86.8%
+Rising Star,Non-Low Income,All Grades,SBAC,Math,73.7%
+Rising Star,Hispanic/ Latino of any race(s),All Grades,SBAC,ELA,42.9%
+Rising Star,Hispanic/ Latino of any race(s),All Grades,SBAC,Math,42.9%
+Rising Star,White,All Grades,SBAC,ELA,71.4%
+Rising Star,White,All Grades,SBAC,Math,64.3%
+Roxhill,All Students,All Grades,SBAC,Math,20.6%
+Roxhill,All Students,All Grades,SBAC,ELA,26.8%
+Roxhill,English Language Learners,All Grades,SBAC,ELA,<11%
+Roxhill,English Language Learners,All Grades,SBAC,Math,<11%
+Roxhill,Non-English Language Learners,All Grades,SBAC,ELA,35.7%
+Roxhill,Non-English Language Learners,All Grades,SBAC,Math,25.7%
+Roxhill,Low-Income,All Grades,SBAC,ELA,15.2%
+Roxhill,Low-Income,All Grades,SBAC,Math,12.1%
+Roxhill,Non-Low Income,All Grades,SBAC,ELA,51.6%
+Roxhill,Non-Low Income,All Grades,SBAC,Math,38.7%
+Roxhill,Hispanic/ Latino of any race(s),All Grades,SBAC,ELA,19.2%
+Roxhill,Hispanic/ Latino of any race(s),All Grades,SBAC,Math,11.5%
+Roxhill,White,All Grades,SBAC,Math,42.3%
+Roxhill,White,All Grades,SBAC,ELA,50.0%
+Sacajawea,All Students,All Grades,SBAC,ELA,48.8%
+Sacajawea,All Students,All Grades,SBAC,Math,47.6%
+Sacajawea,English Language Learners,All Grades,SBAC,ELA,<27%
+Sacajawea,English Language Learners,All Grades,SBAC,Math,<27%
+Sacajawea,Non-English Language Learners,All Grades,SBAC,Math,53.4%
+Sacajawea,Non-English Language Learners,All Grades,SBAC,ELA,53.4%
+Sacajawea,Low-Income,All Grades,SBAC,ELA,33.3%
+Sacajawea,Low-Income,All Grades,SBAC,Math,25.9%
+Sacajawea,Non-Low Income,All Grades,SBAC,ELA,56.1%
+Sacajawea,Non-Low Income,All Grades,SBAC,Math,57.9%
+Sacajawea,Hispanic/ Latino of any race(s),All Grades,SBAC,Math,28.6%
+Sacajawea,Hispanic/ Latino of any race(s),All Grades,SBAC,ELA,35.7%
+Sacajawea,White,All Grades,SBAC,ELA,57.1%
+Sacajawea,White,All Grades,SBAC,Math,57.1%
+Sand Point,All Students,All Grades,SBAC,ELA,50.0%
+Sand Point,All Students,All Grades,SBAC,Math,50.0%
+Sand Point,English Language Learners,All Grades,SBAC,ELA,27.3%
+Sand Point,English Language Learners,All Grades,SBAC,Math,36.4%
+Sand Point,Non-English Language Learners,All Grades,SBAC,ELA,54.5%
+Sand Point,Non-English Language Learners,All Grades,SBAC,Math,52.7%
+Sand Point,Low-Income,All Grades,SBAC,ELA,32.3%
+Sand Point,Low-Income,All Grades,SBAC,Math,25.8%
+Sand Point,Non-Low Income,All Grades,SBAC,ELA,65.7%
+Sand Point,Non-Low Income,All Grades,SBAC,Math,71.4%
+Sand Point,Hispanic/ Latino of any race(s),All Grades,SBAC,ELA,N<10
+Sand Point,Hispanic/ Latino of any race(s),All Grades,SBAC,Math,N<10
+Sand Point,White,All Grades,SBAC,ELA,69.0%
+Sand Point,White,All Grades,SBAC,Math,72.4%
+Sanislo,All Students,All Grades,SBAC,ELA,39.8%
+Sanislo,All Students,All Grades,SBAC,Math,26.5%
+Sanislo,English Language Learners,All Grades,SBAC,Math,12.5%
+Sanislo,English Language Learners,All Grades,SBAC,ELA,18.8%
+Sanislo,Non-English Language Learners,All Grades,SBAC,Math,35.3%
+Sanislo,Non-English Language Learners,All Grades,SBAC,ELA,52.9%
+Sanislo,Low-Income,All Grades,SBAC,Math,19.7%
+Sanislo,Low-Income,All Grades,SBAC,ELA,27.9%
+Sanislo,Non-Low Income,All Grades,SBAC,Math,45.5%
+Sanislo,Non-Low Income,All Grades,SBAC,ELA,72.7%
+Sanislo,Hispanic/ Latino of any race(s),All Grades,SBAC,ELA,35.3%
+Sanislo,Hispanic/ Latino of any race(s),All Grades,SBAC,Math,17.7%
+Sanislo,White,All Grades,SBAC,ELA,56.3%
+Sanislo,White,All Grades,SBAC,Math,37.5%
+Stephen Decatur,All Students,All Grades,SBAC,ELA,>98%
+Stephen Decatur,All Students,All Grades,SBAC,Math,>98%
+Stephen Decatur,Non-English Language Learners,All Grades,SBAC,ELA,>98%
+Stephen Decatur,Non-English Language Learners,All Grades,SBAC,Math,>98%
+Stephen Decatur,Low-Income,All Grades,SBAC,ELA,N<10
+Stephen Decatur,Low-Income,All Grades,SBAC,Math,N<10
+Stephen Decatur,Non-Low Income,All Grades,SBAC,ELA,>98%
+Stephen Decatur,Non-Low Income,All Grades,SBAC,Math,>98%
+Stephen Decatur,Hispanic/ Latino of any race(s),All Grades,SBAC,ELA,>73%
+Stephen Decatur,Hispanic/ Latino of any race(s),All Grades,SBAC,Math,>73%
+Stephen Decatur,White,All Grades,SBAC,Math,>93%
+Stephen Decatur,White,All Grades,SBAC,ELA,>93%
+Stevens,All Students,All Grades,SBAC,ELA,77.0%
+Stevens,All Students,All Grades,SBAC,Math,74.3%
+Stevens,English Language Learners,All Grades,SBAC,ELA,N<10
+Stevens,English Language Learners,All Grades,SBAC,Math,N<10
+Stevens,Non-English Language Learners,All Grades,SBAC,ELA,80.9%
+Stevens,Non-English Language Learners,All Grades,SBAC,Math,77.9%
+Stevens,Low-Income,All Grades,SBAC,ELA,54.2%
+Stevens,Low-Income,All Grades,SBAC,Math,66.7%
+Stevens,Non-Low Income,All Grades,SBAC,ELA,88.0%
+Stevens,Non-Low Income,All Grades,SBAC,Math,78.0%
+Stevens,Hispanic/ Latino of any race(s),All Grades,SBAC,ELA,40.0%
+Stevens,Hispanic/ Latino of any race(s),All Grades,SBAC,Math,40.0%
+Stevens,White,All Grades,SBAC,Math,83.7%
+Stevens,White,All Grades,SBAC,ELA,86.1%
+Thornton Creek,All Students,All Grades,SBAC,ELA,71.9%
+Thornton Creek,All Students,All Grades,SBAC,Math,71.4%
+Thornton Creek,English Language Learners,All Grades,SBAC,Math,31.3%
+Thornton Creek,English Language Learners,All Grades,SBAC,ELA,37.5%
+Thornton Creek,Non-English Language Learners,All Grades,SBAC,ELA,74.9%
+Thornton Creek,Non-English Language Learners,All Grades,SBAC,Math,74.9%
+Thornton Creek,Low-Income,All Grades,SBAC,Math,22.2%
+Thornton Creek,Low-Income,All Grades,SBAC,ELA,29.6%
+Thornton Creek,Non-Low Income,All Grades,SBAC,Math,79.0%
+Thornton Creek,Non-Low Income,All Grades,SBAC,ELA,78.4%
+Thornton Creek,Hispanic/ Latino of any race(s),All Grades,SBAC,ELA,58.3%
+Thornton Creek,Hispanic/ Latino of any race(s),All Grades,SBAC,Math,41.7%
+Thornton Creek,White,All Grades,SBAC,ELA,78.3%
+Thornton Creek,White,All Grades,SBAC,Math,78.3%
+Thurgood Marshall,All Students,All Grades,SBAC,ELA,67.5%
+Thurgood Marshall,All Students,All Grades,SBAC,Math,71.5%
+Thurgood Marshall,English Language Learners,All Grades,SBAC,Math,24.2%
+Thurgood Marshall,English Language Learners,All Grades,SBAC,ELA,18.2%
+Thurgood Marshall,Non-English Language Learners,All Grades,SBAC,ELA,75.0%
+Thurgood Marshall,Non-English Language Learners,All Grades,SBAC,Math,78.7%
+Thurgood Marshall,Low-Income,All Grades,SBAC,ELA,38.3%
+Thurgood Marshall,Low-Income,All Grades,SBAC,Math,45.7%
+Thurgood Marshall,Non-Low Income,All Grades,SBAC,ELA,85.2%
+Thurgood Marshall,Non-Low Income,All Grades,SBAC,Math,87.1%
+Thurgood Marshall,Hispanic/ Latino of any race(s),All Grades,SBAC,Math,40.0%
+Thurgood Marshall,Hispanic/ Latino of any race(s),All Grades,SBAC,ELA,45.7%
+Thurgood Marshall,White,All Grades,SBAC,ELA,74.7%
+Thurgood Marshall,White,All Grades,SBAC,Math,82.3%
+View Ridge,All Students,All Grades,SBAC,ELA,82.1%
+View Ridge,All Students,All Grades,SBAC,Math,83.0%
+View Ridge,English Language Learners,All Grades,SBAC,ELA,N<10
+View Ridge,English Language Learners,All Grades,SBAC,Math,N<10
+View Ridge,Non-English Language Learners,All Grades,SBAC,ELA,82.7%
+View Ridge,Non-English Language Learners,All Grades,SBAC,Math,84.2%
+View Ridge,Low-Income,All Grades,SBAC,ELA,43.8%
+View Ridge,Low-Income,All Grades,SBAC,Math,41.2%
+View Ridge,Non-Low Income,All Grades,SBAC,ELA,87.3%
+View Ridge,Non-Low Income,All Grades,SBAC,Math,89.0%
+View Ridge,Hispanic/ Latino of any race(s),All Grades,SBAC,ELA,N<10
+View Ridge,Hispanic/ Latino of any race(s),All Grades,SBAC,Math,70.0%
+View Ridge,White,All Grades,SBAC,ELA,86.4%
+View Ridge,White,All Grades,SBAC,Math,85.2%
+Viewlands,All Students,All Grades,SBAC,Math,64.2%
+Viewlands,All Students,All Grades,SBAC,ELA,62.8%
+Viewlands,English Language Learners,All Grades,SBAC,ELA,31.6%
+Viewlands,English Language Learners,All Grades,SBAC,Math,31.6%
+Viewlands,Non-English Language Learners,All Grades,SBAC,ELA,68.6%
+Viewlands,Non-English Language Learners,All Grades,SBAC,Math,70.2%
+Viewlands,Low-Income,All Grades,SBAC,ELA,39.1%
+Viewlands,Low-Income,All Grades,SBAC,Math,42.6%
+Viewlands,Non-Low Income,All Grades,SBAC,ELA,77.3%
+Viewlands,Non-Low Income,All Grades,SBAC,Math,77.6%
+Viewlands,Hispanic/ Latino of any race(s),All Grades,SBAC,Math,31.8%
+Viewlands,Hispanic/ Latino of any race(s),All Grades,SBAC,ELA,30.0%
+Viewlands,White,All Grades,SBAC,Math,80.0%
+Viewlands,White,All Grades,SBAC,ELA,76.9%
+Wedgwood,All Students,All Grades,SBAC,Math,78.8%
+Wedgwood,All Students,All Grades,SBAC,ELA,86.6%
+Wedgwood,English Language Learners,All Grades,SBAC,ELA,50.0%
+Wedgwood,English Language Learners,All Grades,SBAC,Math,60.0%
+Wedgwood,Non-English Language Learners,All Grades,SBAC,ELA,88.8%
+Wedgwood,Non-English Language Learners,All Grades,SBAC,Math,79.9%
+Wedgwood,Low-Income,All Grades,SBAC,ELA,50.0%
+Wedgwood,Low-Income,All Grades,SBAC,Math,50.0%
+Wedgwood,Non-Low Income,All Grades,SBAC,ELA,90.2%
+Wedgwood,Non-Low Income,All Grades,SBAC,Math,81.6%
+Wedgwood,Hispanic/ Latino of any race(s),All Grades,SBAC,ELA,76.9%
+Wedgwood,Hispanic/ Latino of any race(s),All Grades,SBAC,Math,61.5%
+Wedgwood,White,All Grades,SBAC,Math,77.6%
+Wedgwood,White,All Grades,SBAC,ELA,87.9%
+West Seattle,All Students,All Grades,SBAC,ELA,50.3%
+West Seattle,All Students,All Grades,SBAC,Math,57.1%
+West Seattle,English Language Learners,All Grades,SBAC,ELA,48.0%
+West Seattle,English Language Learners,All Grades,SBAC,Math,63.5%
+West Seattle,Non-English Language Learners,All Grades,SBAC,ELA,51.6%
+West Seattle,Non-English Language Learners,All Grades,SBAC,Math,53.7%
+West Seattle,Low-Income,All Grades,SBAC,ELA,48.4%
+West Seattle,Low-Income,All Grades,SBAC,Math,56.9%
+West Seattle,Non-Low Income,All Grades,SBAC,ELA,64.7%
+West Seattle,Non-Low Income,All Grades,SBAC,Math,58.8%
+West Seattle,Hispanic/ Latino of any race(s),All Grades,SBAC,ELA,54.6%
+West Seattle,Hispanic/ Latino of any race(s),All Grades,SBAC,Math,54.6%
+West Seattle,White,All Grades,SBAC,ELA,>70%
+West Seattle,White,All Grades,SBAC,Math,66.7%
+West Woodland,All Students,All Grades,SBAC,Math,77.4%
+West Woodland,All Students,All Grades,SBAC,ELA,87.2%
+West Woodland,English Language Learners,All Grades,SBAC,Math,N<10
+West Woodland,English Language Learners,All Grades,SBAC,ELA,N<10
+West Woodland,Non-English Language Learners,All Grades,SBAC,ELA,87.0%
+West Woodland,Non-English Language Learners,All Grades,SBAC,Math,77.2%
+West Woodland,Low-Income,All Grades,SBAC,ELA,50.0%
+West Woodland,Low-Income,All Grades,SBAC,Math,50.0%
+West Woodland,Non-Low Income,All Grades,SBAC,ELA,90.1%
+West Woodland,Non-Low Income,All Grades,SBAC,Math,79.6%
+West Woodland,Hispanic/ Latino of any race(s),All Grades,SBAC,ELA,>73%
+West Woodland,Hispanic/ Latino of any race(s),All Grades,SBAC,Math,72.7%
+West Woodland,White,All Grades,SBAC,ELA,91.0%
+West Woodland,White,All Grades,SBAC,Math,80.7%
+Whittier,All Students,All Grades,SBAC,Math,82.4%
+Whittier,All Students,All Grades,SBAC,ELA,79.3%
+Whittier,English Language Learners,All Grades,SBAC,ELA,N<10
+Whittier,English Language Learners,All Grades,SBAC,Math,N<10
+Whittier,Non-English Language Learners,All Grades,SBAC,ELA,80.1%
+Whittier,Non-English Language Learners,All Grades,SBAC,Math,83.7%
+Whittier,Low-Income,All Grades,SBAC,ELA,46.7%
+Whittier,Low-Income,All Grades,SBAC,Math,46.7%
+Whittier,Non-Low Income,All Grades,SBAC,ELA,82.5%
+Whittier,Non-Low Income,All Grades,SBAC,Math,85.8%
+Whittier,Hispanic/ Latino of any race(s),All Grades,SBAC,ELA,70.0%
+Whittier,Hispanic/ Latino of any race(s),All Grades,SBAC,Math,70.0%
+Whittier,White,All Grades,SBAC,Math,82.2%
+Whittier,White,All Grades,SBAC,ELA,84.6%
+Wing Luke,All Students,All Grades,SBAC,ELA,40.9%
+Wing Luke,All Students,All Grades,SBAC,Math,35.6%
+Wing Luke,English Language Learners,All Grades,SBAC,ELA,18.6%
+Wing Luke,English Language Learners,All Grades,SBAC,Math,20.9%
+Wing Luke,Non-English Language Learners,All Grades,SBAC,ELA,51.7%
+Wing Luke,Non-English Language Learners,All Grades,SBAC,Math,42.7%
+Wing Luke,Low-Income,All Grades,SBAC,ELA,36.5%
+Wing Luke,Low-Income,All Grades,SBAC,Math,27.1%
+Wing Luke,Non-Low Income,All Grades,SBAC,ELA,52.8%
+Wing Luke,Non-Low Income,All Grades,SBAC,Math,58.3%
+Wing Luke,Hispanic/ Latino of any race(s),All Grades,SBAC,Math,<27%
+Wing Luke,Hispanic/ Latino of any race(s),All Grades,SBAC,ELA,<27%
+Wing Luke,White,All Grades,SBAC,ELA,61.5%
+Wing Luke,White,All Grades,SBAC,Math,61.5%
+District Total,All Students,All Grades,SBAC,ELA,64.1%
+District Total,All Students,All Grades,SBAC,Math,55.2%
+District Total,English Language Learners,All Grades,SBAC,ELA,20.4%
+District Total,English Language Learners,All Grades,SBAC,Math,19.8%
+District Total,Non-English Language Learners,All Grades,SBAC,Math,60.7%
+District Total,Non-English Language Learners,All Grades,SBAC,ELA,70.8%
+District Total,Low-Income,All Grades,SBAC,Math,27.1%
+District Total,Low-Income,All Grades,SBAC,ELA,36.2%
+District Total,Non-Low Income,All Grades,SBAC,ELA,78.6%
+District Total,Non-Low Income,All Grades,SBAC,Math,69.7%
+District Total,Hispanic/ Latino of any race(s),All Grades,SBAC,ELA,42.9%
+District Total,Hispanic/ Latino of any race(s),All Grades,SBAC,Math,32.7%
+District Total,White,All Grades,SBAC,ELA,78.4%
+District Total,White,All Grades,SBAC,Math,69.0%
+State Total,All Students,All Grades,SBAC,ELA,50.3%
+State Total,All Students,All Grades,SBAC,Math,39.7%
+State Total,English Language Learners,All Grades,SBAC,ELA,15.5%
+State Total,English Language Learners,All Grades,SBAC,Math,15.2%
+State Total,Non-English Language Learners,All Grades,SBAC,ELA,55.9%
+State Total,Non-English Language Learners,All Grades,SBAC,Math,43.7%
+State Total,Low-Income,All Grades,SBAC,ELA,34.6%
+State Total,Low-Income,All Grades,SBAC,Math,24.1%
+State Total,Non-Low Income,All Grades,SBAC,ELA,66.2%
+State Total,Non-Low Income,All Grades,SBAC,Math,55.4%
+State Total,Hispanic/ Latino of any race(s),All Grades,SBAC,Math,22.4%
+State Total,Hispanic/ Latino of any race(s),All Grades,SBAC,ELA,33.7%
+State Total,White,All Grades,SBAC,Math,46.2%
+State Total,White,All Grades,SBAC,ELA,57.2%
