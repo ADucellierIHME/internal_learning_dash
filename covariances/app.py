@@ -54,19 +54,27 @@ controls = dbc.Container([
 app.layout = dbc.Container([
     html.H1('Sample covariance matrix'),
     dbc.Row([
-        dbc.Col(controls, md=3),
+        dbc.Col(controls, md=4),
         dbc.Col(dvc.Vega(
-            id='chart',
+            id='chart1',
             opt={'renderer': 'svg', 'actions': False},
             spec={}
-        ), md=9),
+        ), md=4),
+        dbc.Col(dvc.Vega(
+            id='chart2',
+            opt={'renderer': 'svg', 'actions': False},
+            spec={}
+        ), md=4),
     ]),
     ],
     fluid=True,
 )
 
 @app.callback(
-    Output('chart', 'spec'),
+    [
+        Output('chart1', 'spec'),
+        Output('chart2', 'spec')
+    ],
     [
         Input('p', 'value'),
         Input('n', 'value'),
@@ -107,30 +115,35 @@ def make_graph(p, n, B):
     num_uncertain = len(np.where((S_lower < 0.0) & (S_upper > 0))[0])
     perc_uncertain = 100 * num_uncertain / num_coeff
 
-    df = pd.DataFrame(data={ \
+    sign_S_sub = np.repeat(np.sign(S_sub)[:, :, np.newaxis], B, axis=2)
+    sign_S_bar = (sign_S_sub * S_bar > 0)
+    sign_correct = (sign_S_bar.sum(axis=2) / B)[np.triu_indices(p, k=1)]
+
+    # First plot
+    df1 = pd.DataFrame(data={ \
         'true': S_true, \
         'mean': S_mean, \
         'lower': S_lower, \
         'upper': S_upper}).sort_values(by=['true']).reset_index(drop=True)
-    df['num'] = np.arange(0, num_coeff)
+    df1['num'] = np.arange(0, num_coeff)
 
-    true = alt.Chart(df).mark_line(color='black', strokeDash=[2,2]).encode(
+    true = alt.Chart(df1).mark_line(color='black', strokeDash=[2,2]).encode(
         x=alt.X('num:O', axis=alt.Axis(title='', labels=False, ticks=False)),
         y=alt.Y('mean:Q', axis=alt.Axis(title=''))
     )
-    mean = alt.Chart(df).mark_line(color='black').encode(
+    mean = alt.Chart(df1).mark_line(color='black').encode(
         x=alt.X('num:O', axis=alt.Axis(title='Index', labels=False, ticks=False)),
         y=alt.Y('mean:Q', axis=alt.Axis(title='Covariance'))
     )
-    upper = alt.Chart(df).mark_line(color='lightgrey').encode(
+    upper = alt.Chart(df1).mark_line(color='lightgrey').encode(
         x=alt.X('num:O', axis=alt.Axis(title='', labels=False, ticks=False)),
         y=alt.Y('upper:Q', axis=alt.Axis(title=''))
     )
-    lower = alt.Chart(df).mark_line(color='lightgrey').encode(
+    lower = alt.Chart(df1).mark_line(color='lightgrey').encode(
         x=alt.X('num:O', axis=alt.Axis(title='', labels=False, ticks=False)),
         y=alt.Y('lower:Q', axis=alt.Axis(title=''))
     )
-    chart = alt.layer(
+    chart1 = alt.layer(
         true,
         upper,
         lower,
@@ -151,7 +164,31 @@ def make_graph(p, n, B):
         titleFontSize=16
     )
 
-    return chart.to_dict(format='vega')
+    # Second plot
+    df2 = pd.DataFrame(data={ \
+        'true': S_true, \
+        'perc_correct': sign_correct}).sort_values(by=['true']).reset_index(drop=True)
+    df2['num'] = np.arange(0, num_coeff)
+
+    chart2 = alt.Chart(df2).mark_bar().encode(
+        x=alt.X('num:O', axis=alt.Axis(title='', labels=False, ticks=False)),
+        y=alt.Y('perc_correct:Q', axis=alt.Axis(title='Percentage'))
+    ).properties(
+        height=300,
+        width=300,
+        title=alt.Title('Percentage of coefficients with correct sign')
+    ).configure_axis(
+        labelFontSize=16,
+        titleFontSize=16
+    ).configure_title(
+        fontSize=16,
+        anchor='middle'
+    ).configure_legend(
+        labelFontSize=16,
+        titleFontSize=16
+    )
+    
+    return (chart1.to_dict(format='vega'), chart2.to_dict(format='vega'))
 
 if __name__ == "__main__":
     app.run(debug=True)
